@@ -8,7 +8,7 @@ Specific C++ files present in the repository are:
 5. Makefile: Tested only on OSX
 
 NOTE:
-A) This is work in progress, and I will not be responsible if you plan to use this code in your research. (Have fun indulging yourself in with all the bugs!!)
+A) This is work in progress, and I will not be responsible if you plan to use this code in your research. (Have fun indulging yourself with all the bugs!!)
 B) MPI has not been implemented.
 
 
